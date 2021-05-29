@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="20210428_change_tb_account" type="AUTO_DETECTED" />
+      <mapping pattern="youtube_trantrongnhannguyen1" type="AUTO_DETECTED" />
       <mapping pattern="MongoConfig" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
